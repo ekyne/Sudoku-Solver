@@ -25,5 +25,3 @@ To run the program, navigate to the folder and type in the following command:
 ```
 python3 ./sud.py
 ``` 
-## Author
-Kyle Gilmore
