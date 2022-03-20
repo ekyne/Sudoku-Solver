@@ -2,7 +2,7 @@
 
 ![SudokuSolver](https://drive.google.com/uc?export=view&id=1jaMPltmRf4P5JEIyt-qfHU5RiG-eb9h8)
 
-This is a sudoku solving project written in Python, which includes PyGame to show the power of backtracking techniques when handled by automation.
+This is a sudoku solving project written in Python 3, which includes PyGame to show the power of backtracking techniques when handled by automation.
 
 The goal of the project is to solve a sudoku puzzle by manual or automated means, which are decided by the user.
 
