@@ -1,7 +1,7 @@
-## Author: 	    Kyle Gilmore
-## Date: 	    March 18, 2022
-## Project: 	Sudoku Solver
-## File: 	    sud.py
+## Author: 	Ekyne
+## Date: 	March 18, 2022
+## Project:	Sudoku Solver
+## File: 	sud.py
 ## Function: 	Main Driver of the Sudoku Solver Project.
 
 try:
